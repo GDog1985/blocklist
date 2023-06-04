@@ -1,1 +1,18 @@
 
+smetrics.samsung.com
+advertising.apple.com
+tr.iadsdk.apple.com
+iadsdk.apple.com
+iadsdk.apple.com
+api-adservices.apple.com
+api-adservices.apple.com
+grs.hicloud.com
+adsfs.oppomobile.com
+ck.ads.oppomobile.com
+data.ads.oppomobile.com
+tracking.rus.miui.com
+bdapi-in-ads.realmemobile.com
+iot-logser.realme.com
+bdapi-ads.realmemobile.com
+bdapi-in-ads.realmemobile.com
+
