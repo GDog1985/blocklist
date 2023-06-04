@@ -42,3 +42,4 @@ adsfs.oppomobile.com
 tracking.rus.miui.com
 grs.hicloud.com
 smetrics.samsung.com
+adtago.s3.amazonaws.com
